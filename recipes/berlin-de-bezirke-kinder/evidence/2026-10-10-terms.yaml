@@ -1,0 +1,26 @@
+source: berlin-de-bezirke-kinder
+read_at: 2026-10-10
+pages:
+  - url: https://www.berlin.de/wir-ueber-uns/impressum/
+    quote: >-
+      Das Layout der Seiten, die verwendeten Grafiken, Fotos, Bewegtbilder, Texte sowie die
+      Sammlung der Beiträge sind urheberrechtlich geschützt. Die Nutzung der Inhalte ist nur im
+      Rahmen der gesetzlichen Bestimmungen zulässig.
+  - url: https://www.berlin.de/robots.txt
+    quote: >-
+      Any automated program to retrieve information from our public websites is only allowed
+      subject to the following restrictions: It must clearly and uniquely identify itself in the
+      HTTP User-Agent header. [...] it must be fully compliant with the Robots Exclusion Protocol.
+    note: >-
+      /land/ is disallowed only for the AdsBot-Google groups; for every other agent the
+      calendar and its RSS feed are allowed.
+reading: >-
+  No licence and no explicit permission to reuse. Texts, images and "die Sammlung der Beiträge"
+  (the collection, which points at database rights under §87a UrhG) are protected; use is
+  allowed only within the law. Titles, dates and links are facts; descriptions and images are
+  protected and must stay out of the export. Automated access is allowed for an agent that
+  names itself and follows robots.txt; the project user agent does both. The feed is the
+  calendar of the Bezirksämter, published by BerlinOnline. Because a daily run copies the
+  whole children's category, the owner should decide whether that counts as a substantial
+  part of the database; asking webmaster@berlinonline.net is the safe route.
+suggested_tier: facts_only

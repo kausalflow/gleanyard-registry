@@ -1,0 +1,11 @@
+name: GRIPS Theater, Spielplan
+description: Season programme of GRIPS Theater, Berlin's children's and youth theatre.
+schema: family-event
+tags:
+- berlin
+- family
+- theater
+maintainers:
+- emptymalei
+fixture_basis: Trimmed to three events, facts only (title, date, time, venue, link);
+  descriptions, ticket links and names removed.

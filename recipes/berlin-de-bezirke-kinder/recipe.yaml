@@ -1,0 +1,12 @@
+name: Berlin district event calendars, category "Kinder, Jugendliche"
+description: Events for children and young people from the Berlin district calendars
+  (RSS, next ~100 events).
+schema: family-event
+tags:
+- berlin
+- family
+- events
+maintainers:
+- emptymalei
+fixture_basis: Trimmed to three events, facts only (title, date, time, venue, link);
+  descriptions, ticket links and names removed.

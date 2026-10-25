@@ -1,0 +1,17 @@
+source: theater-an-der-parkaue
+read_at: 2026-10-10
+pages:
+  - url: https://www.parkaue.de/impressum/
+    quote: >-
+      Copyright Das Layout der Homepage, die verwendeten Grafiken, Illustrationen und Bilder
+      sowie die einzelnen Beiträge sind urheberrechtlich geschützt.
+  - url: https://www.parkaue.de/agb/
+    quote: Ticket terms only (admission, recordings, house rules); nothing on reuse of the website.
+  - url: https://www.parkaue.de/robots.txt
+    quote: No robots.txt (HTTP 404), so no path is disallowed.
+reading: >-
+  No licence. Layout, graphics, images and the individual texts are protected; performance
+  facts (title, date, time, stage, age recommendation) are not. The theatre is a public
+  (Land Berlin) youth theatre whose schedule exists to be found. Facts only; no descriptions
+  or images in the export.
+suggested_tier: facts_only

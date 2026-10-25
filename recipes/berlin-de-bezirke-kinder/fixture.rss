@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+
+
+
+  <channel>
+    <title>Veranstaltungskalender der Bezirke</title>
+    <link>https://www.berlin.de/land/kalender/</link>
+	<atom:link href="https://www.berlin.de/land/kalender//land/kalender/index.php?rss&amp;c=14&amp;kategorie[50]=3" rel="self" type="application/rss+xml"/>
+    <description></description>
+    <pubDate>Sat, 10 Oct 2026 13:46:17 +0200</pubDate>
+		
+    <item>
+      <title>Wanderausstellung „Neu-Hohenschönhausen im Miniaturformat“ (10.10.2026)</title>
+      <link>https://www.berlin.de/land/kalender/index.php?detail=281089&amp;ls=0&amp;c=14&amp;kategorie[50]=3&amp;date_start=10.10.2026</link>
+      <guid isPermaLink="false">baevents:event:281089:2026-10-10:00-00-00</guid>
+       
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0200</pubDate>
+    </item>
+<item>
+      <title>Schnuppertag in der Musikschule in Weißensee (10.10.2026 10:00 - 13:00 Uhr)</title>
+      <link>https://www.berlin.de/land/kalender/index.php?detail=294508&amp;ls=0&amp;c=14&amp;kategorie[50]=3&amp;date_start=10.10.2026</link>
+      <guid isPermaLink="false">baevents:event:294508:2026-10-10:10-00-00</guid>
+       
+            <pubDate>Sat, 10 Oct 2026 10:00:00 +0200</pubDate>
+    </item>
+<item>
+      <title>Bastel-Workshop mit Asja Bonitz - Druckfrisch: Bastel-Workshop „Notizbücher gestalten“ (10.10.2026 10:00 - 14:00 Uhr)</title>
+      <link>https://www.berlin.de/land/kalender/index.php?detail=290381&amp;ls=0&amp;c=14&amp;kategorie[50]=3&amp;date_start=10.10.2026</link>
+      <guid isPermaLink="false">baevents:event:290381:2026-10-10:10-00-00</guid>
+       
+      <pubDate>Sat, 10 Oct 2026 10:00:00 +0200</pubDate>
+    </item>
+</channel>
+</rss>
