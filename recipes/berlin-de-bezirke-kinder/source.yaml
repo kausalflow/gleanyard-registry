@@ -1,0 +1,32 @@
+id: berlin-de-bezirke-kinder
+name: Berlin district event calendars, category "Kinder, Jugendliche"
+schema: family-event
+enabled: false
+# c=14 is the combined calendar of all districts; kategorie[50]=3 is "Kinder, Jugendliche".
+# The feed always holds the next 100 events from today (about three days), so daily runs
+# accumulate the dataset; it ignores offsets and later start dates.
+delivery: rss
+url: https://www.berlin.de/land/kalender/index.php?rss&c=14&kategorie[50]=3
+homepage: https://www.berlin.de/land/kalender/index.php?c=14&kategorie[50]=3
+extract:
+  mode: fields
+  map:
+    title: title
+    start_date: pubDate
+    time_text: pubDate
+    source_url: link
+    description: description
+fetch:
+  max_requests: 3
+  delay_seconds: 2
+rights:
+  review_status: pending
+  effective_tier: facts_only
+  allowed_actions:
+    private_store: true
+    normalize: true
+    send_to_model: false
+    redistribute_facts: true
+    redistribute_text: false
+    redistribute_images: false
+  public_fields: [title, start_date, time_text, source_url]

@@ -1,0 +1,41 @@
+{
+  "name": "GRIPS Theater Spielplan",
+  "baseSelector": "li.event-module",
+  "baseFields": [
+    {
+      "name": "start_date",
+      "type": "attribute",
+      "attribute": "data-date"
+    }
+  ],
+  "fields": [
+    {
+      "name": "title",
+      "selector": "h3.events-list-title",
+      "type": "text"
+    },
+    {
+      "name": "age_min",
+      "selector": "div.meta-age",
+      "type": "regex",
+      "pattern": "(\\d+)"
+    },
+    {
+      "name": "time_text",
+      "selector": "div.meta-inner-date-location-wrap div.date",
+      "type": "regex",
+      "pattern": "(\\d{1,2}\\.\\d{2} Uhr)"
+    },
+    {
+      "name": "venue",
+      "selector": "div.meta-inner-date-location-wrap div.location",
+      "type": "text"
+    },
+    {
+      "name": "source_url",
+      "selector": "a:has(h3.events-list-title)",
+      "type": "attribute",
+      "attribute": "href"
+    }
+  ]
+}

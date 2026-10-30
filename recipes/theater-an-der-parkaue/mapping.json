@@ -1,0 +1,11 @@
+{
+  "name": "Theater an der Parkaue Spielplan",
+  "baseSelector": "div.performance[itemtype='http://schema.org/Event']",
+  "fields": [
+    {"name": "title", "selector": "span.performance__headlineinner", "type": "text"},
+    {"name": "start_date", "selector": "meta[itemprop='startDate']", "type": "attribute", "attribute": "content"},
+    {"name": "time_text", "selector": "span.performance__time", "type": "text"},
+    {"name": "age_min", "selector": "span.performance__agerecommendation", "type": "regex", "pattern": "(\\d+)"},
+    {"name": "source_url", "selector": "h3.performance__headline a", "type": "attribute", "attribute": "href"}
+  ]
+}

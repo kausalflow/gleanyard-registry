@@ -1,0 +1,50 @@
+{
+  "records": {
+    "rec_27bf2bc89376fdf16eb7": {
+      "age_min": 3,
+      "categories": [
+        "Theater"
+      ],
+      "district": "Lichtenberg",
+      "indoor": true,
+      "postal_code": "10367",
+      "source_url": "https://www.parkaue.de/spielplan/spielplan/leuchtend-klein-zitronensauer/1919/",
+      "start_date": "2026-10-11",
+      "street": "Parkaue 29",
+      "time_text": "11:00 - 11:30",
+      "title": "leuchtend, klein, zitronensauer",
+      "venue": "Theater an der Parkaue"
+    },
+    "rec_356c4293a3551c0e7205": {
+      "age_min": 12,
+      "categories": [
+        "Theater"
+      ],
+      "district": "Lichtenberg",
+      "indoor": true,
+      "postal_code": "10367",
+      "source_url": "https://www.parkaue.de/spielplan/spielplan/regiert-euch/1918/",
+      "start_date": "2026-10-12",
+      "street": "Parkaue 29",
+      "time_text": "10:00 - 11:05",
+      "title": "Regiert euch!",
+      "venue": "Theater an der Parkaue"
+    },
+    "rec_d49bf401ccae8814de01": {
+      "age_min": 12,
+      "categories": [
+        "Theater"
+      ],
+      "district": "Lichtenberg",
+      "indoor": true,
+      "postal_code": "10367",
+      "source_url": "https://www.parkaue.de/spielplan/spielplan/streiten/1920/",
+      "start_date": "2026-10-10",
+      "street": "Parkaue 29",
+      "time_text": "17:00 - 18:15",
+      "title": "STREITEN",
+      "venue": "Theater an der Parkaue"
+    }
+  },
+  "today": "2026-10-10"
+}

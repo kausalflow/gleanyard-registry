@@ -1,0 +1,12 @@
+name: Theater an der Parkaue (Junges Staatstheater Berlin), Spielplan
+description: Performances at Theater an der Parkaue (Junges Staatstheater Berlin),
+  from schema.org Event microdata.
+schema: family-event
+tags:
+- berlin
+- family
+- theater
+maintainers:
+- emptymalei
+fixture_basis: Trimmed to three events, facts only (title, date, time, venue, link);
+  descriptions, ticket links and names removed.

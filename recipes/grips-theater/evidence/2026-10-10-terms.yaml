@@ -1,0 +1,18 @@
+source: grips-theater
+read_at: 2026-10-10
+pages:
+  - url: https://www.grips-theater.de/de/service/impressum
+    quote: >-
+      Imprint only (GRIPS Theater gGmbH, Altonaer Str. 22, 10557 Berlin); it says nothing about
+      copyright or reuse of the website content.
+  - url: https://www.grips-theater.de/de/service/agb
+    quote: >-
+      Die Allgemeinen Geschäftsbedingungen regeln die rechtlichen Beziehungen zwischen den
+      Besuchern und dem GRIPS THEATER. (Ticket and shop terms; nothing on the website.)
+  - url: https://www.grips-theater.de/robots.txt
+    quote: No robots.txt (HTTP 404), so no path is disallowed.
+reading: >-
+  No licence and no stated restriction. German copyright still protects descriptions and
+  images by default; schedule facts (title, date, time, venue, minimum age) are not protected.
+  Facts only.
+suggested_tier: facts_only
